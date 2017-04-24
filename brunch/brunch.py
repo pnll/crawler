@@ -17,7 +17,7 @@ from apscheduler.schedulers.blocking import BlockingScheduler
 url = 'https://brunch.co.kr/'
 path = './record/'
 #os.chdir(path)
-r = Repo()
+r = Repo('../')
 
 # logger 인스턴스를 생성 및 로그 레벨 설정
 logger = logging.getLogger("crumbs")
@@ -57,7 +57,7 @@ def job_function():
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36"
     )
-    driver = webdriver.PhantomJS(desired_capabilities=dcap,executable_path=r'../../phantomjs')
+    driver = webdriver.PhantomJS(desired_capabilities=dcap,executable_path=r'../../phantomjs-binaries/bin/phantomjs-2.1.1-linux-armhf')
     driver.implicitly_wait(5)
     driver.get(url)
     #driver.find_element_by_id('mArticle')
@@ -67,7 +67,7 @@ def job_function():
 
     html = driver.page_source
     soup = BeautifulSoup(html, "html.parser")
-    #print (soup)
+    print (soup)
 
     result = soup.findAll("a", {"class":"keyword_item"})
     print (str(len(result))) #24
@@ -132,5 +132,5 @@ def job_function():
 sched = BlockingScheduler()
 
 # Schedules job_function to be run on the hour
-sched.add_job(job_function, 'cron', minute='0-1,30-31')
+sched.add_job(job_function, 'cron', minute='0-59')
 sched.start()
