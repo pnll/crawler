@@ -95,7 +95,6 @@ def job_function():
 
     driver.implicitly_wait(3)
     for i in range(0, len(result)):
-        #td_img=talk('span',{'class':'u_cbox_contents'})[i].find("span")
         #img = str(result[i].find('div',{'class':'img_articles'}).find('img'))
         #img_src = result[i].find('div',{'class':'img_articles'}).find('img')['src']
         #f = open("./img/" + str(i) + ".png", "wb")
@@ -135,5 +134,5 @@ def job_function():
 sched = BlockingScheduler()
 
 # Schedules job_function to be run on the hour (and more)
-sched.add_job(job_function, 'cron', minute='0-7,30-31')
+sched.add_job(job_function, 'cron', minute='0-1,30-31')
 sched.start()
