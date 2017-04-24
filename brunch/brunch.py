@@ -132,5 +132,5 @@ def job_function():
 sched = BlockingScheduler()
 
 # Schedules job_function to be run on the hour
-sched.add_job(job_function, 'cron', minute='0-59')
+sched.add_job(job_function, 'cron', minute='0-1,30-31')
 sched.start()
