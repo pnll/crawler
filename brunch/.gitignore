@@ -1,0 +1,4 @@
+*.bak
+ghostdriver.log
+__pycache__/
+_old/
