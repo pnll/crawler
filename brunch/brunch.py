@@ -38,7 +38,6 @@ streamHandler.setFormatter(formatter)
 logger.addHandler(fileHandler)
 logger.addHandler(streamHandler)
 
-
 def job_function():
     now = datetime.now()
     nowDatetime = now.strftime('%Y-%m-%d_%H')
@@ -67,7 +66,7 @@ def job_function():
 
     html = driver.page_source
     soup = BeautifulSoup(html, "html.parser")
-    print (soup)
+    #print (soup)
 
     result = soup.findAll("a", {"class":"keyword_item"})
     print (str(len(result))) #24
@@ -97,10 +96,10 @@ def job_function():
     driver.implicitly_wait(3)
     for i in range(0, len(result)):
         #td_img=talk('span',{'class':'u_cbox_contents'})[i].find("span")
-        img = str(result[i].find('div',{'class':'img_articles'}).find('img'))
-        img_src = result[i].find('div',{'class':'img_articles'}).find('img')['src']
+        #img = str(result[i].find('div',{'class':'img_articles'}).find('img'))
+        #img_src = result[i].find('div',{'class':'img_articles'}).find('img')['src']
         #f = open("./img/" + str(i) + ".png", "wb")
-        img = re.sub("//", "http://", img)
+        #img = re.sub("//", "http://", img)
         #img_req = urllib.request.Request(img)
         #f.write(urllib.request.urlopen(img_req).read())
         #f.close()
@@ -110,10 +109,12 @@ def job_function():
         author = result[i].find('span',{'class':'info_by'}).text
 
         #print (img + '<br><h3>' + title + '</h3><br>' + body + '<p>\n')
-        w2.write('<p>'+img + '<br><h3>' + title + '</h3><h6>' + author + '</h6>' + body + '</p>\n')
+        w2.write('<p><br><h3>' + title + '</h3><h6>' + author + '</h6>' + body + '</p>\n')
         logger.debug(title + ' ' + author.replace(u'\xa0', ' ') + ' : ' + body.replace(u'\u200b', ' '))
 
     w2.write('\n</body><html>')
+
+    time.sleep(1)
 
     #import webbrowser
     #webbrowser.open(file_html) # see results
@@ -121,6 +122,7 @@ def job_function():
     w.close()
     w2.close()
     driver.quit()
+    logger.info('Completed writing files')
 
     time.sleep(5)
 
@@ -128,9 +130,10 @@ def job_function():
     r.git.add('.')
     r.git.commit(m=date_name)
     r.git.push()
+    logger.info('Completed to commit and push on GitHub')
 
 sched = BlockingScheduler()
 
 # Schedules job_function to be run on the hour (and more)
-sched.add_job(job_function, 'cron', minute='0-1,30-31')
+sched.add_job(job_function, 'cron', minute='0-7,30-31')
 sched.start()
