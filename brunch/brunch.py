@@ -115,8 +115,10 @@ def job_function():
             <title>RECOMMENDED ARTICLES</title>
             <body><p>'''+str(now)+'</p>\n')
 
+        time.sleep(1)
         for i in range(0, len(result)):
             org = result[i].find('div',{'class':'img_articles'})
+            time.sleep(1)
             if org is None:
                 img = ''
             else:
