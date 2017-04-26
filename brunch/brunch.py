@@ -92,6 +92,8 @@ def job_function():
         soup = BeautifulSoup(html, "html.parser")
         #print (soup)
 
+        time.sleep(1)
+
         result = soup.findAll("a", {"class":"keyword_item"})
         print (str(len(result))) #24
         #print (result)
