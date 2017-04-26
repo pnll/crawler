@@ -153,7 +153,24 @@ def job_function():
                 w.write(date+',\t' + groupNo + ',\t' + title + ',\t\n')
                 logger.info(groupNo + ' : ' + title)
             #if 'keywordTitle' in l['contents']:
+        logger.debug('Completed writing JSON - keyword file')
         w3.close()
+
+
+        time.sleep(1)
+        driver.quit()
+        time.sleep(10)
+
+        w4=codecs.open(path+date_name+'_popular.json', encoding='utf-8', mode='w')
+        driver = init_phantomjs_driver(executable_path=r'../../phantomjs-binaries/bin/phantomjs-2.1.1-linux-armhf')
+        driver.get('https://api.brunch.co.kr/v1/top/keyword/data/article/popular')
+        driver.implicitly_wait(5)
+        pre = driver.find_element_by_tag_name("pre").text
+        data = json.loads(pre)
+        w4.write(pre)
+        logger.debug('Completed writing JSON - popular file')
+        w4.close()
+
 
     time.sleep(1)
 
