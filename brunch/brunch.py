@@ -95,10 +95,10 @@ def job_function():
 
     driver.implicitly_wait(3)
     for i in range(0, len(result)):
-        #img = str(result[i].find('div',{'class':'img_articles'}).find('img'))
-        #img_src = result[i].find('div',{'class':'img_articles'}).find('img')['src']
+        img = str(result[i].find('div',{'class':'img_articles'}).find('img'))
+        img_src = result[i].find('div',{'class':'img_articles'}).find('img')['src']
         #f = open("./img/" + str(i) + ".png", "wb")
-        #img = re.sub("//", "http://", img)
+        img = re.sub('src="//', 'src="http://', img)
         #img_req = urllib.request.Request(img)
         #f.write(urllib.request.urlopen(img_req).read())
         #f.close()
@@ -108,7 +108,7 @@ def job_function():
         author = result[i].find('span',{'class':'info_by'}).text
 
         #print (img + '<br><h3>' + title + '</h3><br>' + body + '<p>\n')
-        w2.write('<p><br><h3>' + title + '</h3><h6>' + author + '</h6>' + body + '</p>\n')
+        w2.write('<p>' + img + '<br><h3>' + title + '</h3><h6>' + author + '</h6>' + body + '</p>\n')
         logger.debug(title + ' ' + author.replace(u'\xa0', ' ') + ' : ' + body.replace(u'\u200b', ' '))
 
     w2.write('\n</body><html>')
