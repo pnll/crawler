@@ -164,7 +164,7 @@ def job_function():
     driver.quit()
     logger.debug('Completed writing files')
 
-    time.sleep(5)
+    time.sleep(1)
 
     # Update on github
     r.git.add('.')
