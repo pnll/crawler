@@ -177,13 +177,10 @@ def job_function():
         w4.close()
 
 
-    time.sleep(5)
-
     #import webbrowser
     #webbrowser.open(file_html) # see results
 
     w.close()
-    driver.quit()
     logger.debug('Completed writing files')
 
     time.sleep(1)
@@ -193,6 +190,10 @@ def job_function():
     r.git.commit(m=date_name)
     r.git.push()
     logger.debug('Completed to commit and push on GitHub')
+    
+    time.sleep(5)
+    driver.quit()
+
 
 
 sched = BlockingScheduler()
