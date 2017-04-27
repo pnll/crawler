@@ -68,7 +68,7 @@ def job_function():
     print(nowDatetime)
     #print ( '%s-%s-%s' % ( now.year, now.month, now.day ) )
     #date = str(now)
-    date = nowDatetime
+    date = nowDatetime #now.strftime('%Y-%m-%d_%H%M')
     #date_name = '%s-%s-%s_%s:%s' % ( now.year, now.month, now.day, now.hour, now.minute )
     date_name = nowDatetime
 
@@ -154,8 +154,9 @@ def job_function():
             if l['type'] == "KEYWORD_ARTICLE_AUTO":
                 title = l['contents']['keywordTitle']
                 groupNo = str(int(l['contents']['groupNo']))
-                w.write(date+',\t' + groupNo + ',\t' + title + ',\t\n')
-                logger.info(groupNo + ' : ' + title)
+                htmlTitle = l['contents']['htmlKeywordTitle']
+                w.write(date+str(now.minute) + ',\t' + groupNo + ',\t' + title + ',\t' + htmlTitle + ',\t\n')
+                logger.info(groupNo + ' : ' + title + ' > ' + htmlTitle)
             #if 'keywordTitle' in l['contents']:
         logger.debug('Completed writing JSON - keyword file')
         w3.close()
@@ -176,7 +177,7 @@ def job_function():
         w4.close()
 
 
-    time.sleep(1)
+    time.sleep(5)
 
     #import webbrowser
     #webbrowser.open(file_html) # see results
