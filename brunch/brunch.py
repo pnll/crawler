@@ -1,4 +1,3 @@
-#-*- coding: utf-8 -*-
 import codecs
 import time
 import re
@@ -82,7 +81,7 @@ def job_function():
         dcap = dict(DesiredCapabilities.PHANTOMJS)
         dcap["phantomjs.page.settings.userAgent"] = (
             "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36"
+            "(KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36"
         )
         driver = webdriver.PhantomJS(desired_capabilities=dcap,executable_path=r'../../phantomjs-binaries/bin/phantomjs-2.1.1-linux-armhf')
         driver.get(url)
