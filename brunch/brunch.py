@@ -119,7 +119,7 @@ def job_function():
         time.sleep(1)
         for i in range(0, len(result)):
             org = result[i].find('div',{'class':'img_articles'})
-            time.sleep(1)
+            time.sleep(0.2)
             if org is None:
                 img = ''
             else:
