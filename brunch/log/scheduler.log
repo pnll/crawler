@@ -7017,3 +7017,17 @@
 [DEBUG|brunch.py:160] 2017-05-16 16:30:13,432 > Completed writing JSON - keyword file
 [DEBUG|brunch.py:175] 2017-05-16 16:30:47,121 > Completed writing JSON - popular file
 [DEBUG|brunch.py:183] 2017-05-16 16:30:49,826 > Completed writing files
+[DEBUG|brunch.py:191] 2017-05-16 16:31:08,321 > Completed to commit and push on GitHub
+[INFO|brunch.py:158] 2017-05-16 18:00:49,712 > 63 : 글로 읽는 미술 > 글로 읽는 <b>미술</b>
+[INFO|brunch.py:158] 2017-05-16 18:00:50,369 > 45 : 건강·운동 > <b>건강</b>·<b>운동</b>
+[INFO|brunch.py:158] 2017-05-16 18:00:56,281 > 51 : 커피 이야기 > <b>커피</b> 이야기
+[INFO|brunch.py:158] 2017-05-16 18:00:58,393 > 41 : 뮤직 인사이드 > <b>뮤직</b> 인사이드
+[INFO|brunch.py:158] 2017-05-16 18:00:59,519 > 33 : IT 트렌드 > <b>IT 트렌드</b>
+[INFO|brunch.py:158] 2017-05-16 18:01:01,161 > 23 : 알수록 좋은 경제 > 알수록 좋은 <b>경제</b>
+[INFO|brunch.py:158] 2017-05-16 18:01:01,236 > 39 : 사진·촬영 > <b>사진</b>·<b>촬영</b>
+[INFO|brunch.py:158] 2017-05-16 18:01:01,237 > 43 : 디자인 스토리 > <b>디자인</b> 스토리
+[INFO|brunch.py:158] 2017-05-16 18:01:01,238 > 65 : 직장인 자기계발 > 직장인 <b>자기계발</b>
+[INFO|brunch.py:158] 2017-05-16 18:01:01,238 > 9 : 직장인 현실 조언 > <b>직장인</b> 현실 조언
+[DEBUG|brunch.py:160] 2017-05-16 18:01:01,239 > Completed writing JSON - keyword file
+[DEBUG|brunch.py:175] 2017-05-16 18:02:14,841 > Completed writing JSON - popular file
+[DEBUG|brunch.py:183] 2017-05-16 18:02:24,142 > Completed writing files
