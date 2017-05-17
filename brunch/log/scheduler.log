@@ -7845,3 +7845,17 @@
 [DEBUG|brunch.py:160] 2017-05-18 04:31:37,570 > Completed writing JSON - keyword file
 [DEBUG|brunch.py:175] 2017-05-18 04:32:42,688 > Completed writing JSON - popular file
 [DEBUG|brunch.py:183] 2017-05-18 04:32:44,188 > Completed writing files
+[DEBUG|brunch.py:191] 2017-05-18 04:34:19,117 > Completed to commit and push on GitHub
+[INFO|brunch.py:158] 2017-05-18 05:00:05,891 > 75 : 게임 이야기 > <b>게임</b> 이야기
+[INFO|brunch.py:158] 2017-05-18 05:00:05,954 > 72 : 마케팅 읽기 > <b>마케팅</b> 읽기
+[INFO|brunch.py:158] 2017-05-18 05:00:05,955 > 1 : 우리집 반려동물 > 우리집 <b>반려동물</b>
+[INFO|brunch.py:158] 2017-05-18 05:00:05,955 > 42 : 멘탈 관리 심리 탐구 > <b>멘탈</b> 관리 <b>심리</b> 탐구
+[INFO|brunch.py:158] 2017-05-18 05:00:05,956 > 51 : 커피 이야기 > <b>커피</b> 이야기
+[INFO|brunch.py:158] 2017-05-18 05:00:05,956 > 76 : 애니메이션·만화 > <b>애니메이션</b>·<b>만화</b>
+[INFO|brunch.py:158] 2017-05-18 05:00:05,957 > 56 : 멋진 캘리그래피 > 멋진 <b>캘리그래피</b>
+[INFO|brunch.py:158] 2017-05-18 05:00:05,957 > 2 : 글쓰기 코치 > <b>글쓰기</b> 코치
+[INFO|brunch.py:158] 2017-05-18 05:00:05,958 > 61 : 자동차 리뷰 > <b>자동차</b> 리뷰
+[INFO|brunch.py:158] 2017-05-18 05:00:05,959 > 77 : 건축·설계 > <b>건축</b>·<b>설계</b>
+[DEBUG|brunch.py:160] 2017-05-18 05:00:05,959 > Completed writing JSON - keyword file
+[DEBUG|brunch.py:175] 2017-05-18 05:00:22,534 > Completed writing JSON - popular file
+[DEBUG|brunch.py:183] 2017-05-18 05:00:22,547 > Completed writing files
