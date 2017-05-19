@@ -8,3 +8,19 @@
 2017-05-18_220,	1,	우리집 반려동물,	우리집 <b>반려동물</b>,	
 2017-05-18_220,	76,	애니메이션·만화,	<b>애니메이션</b>·<b>만화</b>,	
 2017-05-18_220,	78,	뷰티 인사이드,	<b>뷰티</b> 인사이드,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-05-18 22:01:00.078996</p>
+<p><img alt="거제에 봄이 오면" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2Lc/image/f-49_cz6uuRMvsU5wfs3bnHJ3wU.jpg" width="240">
+</img><br><h3>거제에 봄이 오면</h3><h6>by 론리플래닛 매거진 코리아</h6>거제 동남부 해안에는 원시림이 무성한 섬과 비밀스러운 화원, 안온한 항구 마을이 조화를 이루고 있다. 완연한 봄기운이 내려앉은 거제의 은밀한 명소를 찾아 느긋한 자동차 여행을 떠나보자. 거제 동남부의 해안을 따라 이어진 14번 국도에는 전망 포인트가 즐비하다. ⓒ 김주원 거제에 봄이 오면 <거제도 자동차 여행> 거제도는 먼 곳이었다. 버스나 차를 </p>
+<p><img alt="말하면 안 되는 '이유'" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/P5o/image/lLSMJ46Cht-tr4qfK6khOVLawlE.png" width="240">
+</img><br><h3>말하면 안 되는 '이유'</h3><h6>by 이하루</h6>지난주 화요일. 퇴근 시간이 다가올 때쯤, 우리 부서의 막내가 신나서 ‘쨍그랑’하는 목소리로 소리쳤다. “오늘 퇴근하면 일주일 동안 회사 안 나오네요? 꺅~ 좋다!” 그렇다. 지난주 화요일은 5월 2일이었고. 우리 부서는 4일과 8일 모두 휴가를 쓰기로 해서, 7일이란 황금연휴가 생겼다. 여름휴가를 제외하면, 이렇게 일주일 동안 </p>
+<p><img alt="아기의 시점에서 재해석된 일상" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/Jku/image/1UKnltbMv1Zb1qwD_55eZnFQur4.jpg" width="240">
+</img><br><h3>아기의 시점에서 재해석된 일상</h3><h6>by 영화 읽어주는 남자</h6>안 그래도 성가신 새로운 식구가 조직의 보스였고, 가족들 그 누구도 이 사실을 모른다. 관심을 많이 가져야 하는 아기라는 계급(?)을 이용해 형을 골려주는 보스 베이비(알렉 볼드윈)는 귀엽다가도 제멋대로인 아기를 색다르게 설정한 영화다. 맹목적으로 보살핌을 줘야하는 아기의 이중성을 표현한 것이다. 여기에 사랑을 독차지 하다 찬밥 신세가 된 첫 째의 설움을 </p>
+<p><img alt=" 생활의 달인들만 아는 마요네즈의 비밀 6" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2ycP/image/4a3ZunnVqzVbkbLmycw7g2POmPQ.jpg" width="240">
+</img><br><h3> 생활의 달인들만 아는 마요네즈의 비밀 6</h3><h6>by 싱글리스트</h6>새콤하면서 고소한 마요네즈는 샐러드에 뿌리면 근사한 맛을 선사하는 보물 같은 소스다. 달걀노른자, 샐러드유, 식초, 소금, 설탕을 섞으면 만들 수 있다. 진정한 생활의 달인들은 마요네즈를 음식 재료로만 쓰지 않는다. 가구 관리부터 피부 미용까지, 생활의 달인들만 아는 마요네즈 활용법 여섯 가지를 공개한다. 1. 가구 물 자국이 묻은 목제 가구에 마요</p>
+<p><img alt="전생에 대한 기억으로 당신이 위로받을 수 있다면..." src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2icR/image/jvHW0lfDKtxjiWPCx5Ix9g1vRzE.jpg" width="240">
+</img><br><h3>전생에 대한 기억으로 당신이 위로받을 수 있다면...</h3><h6>by 다이아라일락</h6><시카고 타자기>가 달라졌다! 드라마 시작 전부터 <킬미힐미>의 진수완 극본, 유아인 임수정 출연으로 관심을 모았던 <시카고 타자기>는 기대와 달리 드라마 초반부에선 1~2% 시청률을 보이며 부진했다. 그런 <시카고 타자기>가 여기저기서 재밌어졌다는 입소문과 함께, tvN의 든든한 스페셜 지원이 더해지며, 몰아 보기라는 역주행 흐름을 타고 있다. 그럼 이렇</p>
