@@ -9006,3 +9006,17 @@
 [DEBUG|brunch.py:160] 2017-05-20 08:00:18,638 > Completed writing JSON - keyword file
 [DEBUG|brunch.py:175] 2017-05-20 08:00:45,839 > Completed writing JSON - popular file
 [DEBUG|brunch.py:183] 2017-05-20 08:00:46,909 > Completed writing files
+[DEBUG|brunch.py:191] 2017-05-20 08:01:02,771 > Completed to commit and push on GitHub
+[INFO|brunch.py:158] 2017-05-20 08:30:15,124 > 80 : 어른과 아이 사이 > <b>키덜트</b>
+[INFO|brunch.py:158] 2017-05-20 08:30:15,296 > 68 : 방송·문화 > <b>방송</b>·<b>문화</b>
+[INFO|brunch.py:158] 2017-05-20 08:30:15,297 > 64 : 문화·예술 > <b>문화</b>·<b>예술</b>
+[INFO|brunch.py:158] 2017-05-20 08:30:15,297 > 49 : 다이어트 삼매경 > <b>다이어트</b> 삼매경
+[INFO|brunch.py:158] 2017-05-20 08:30:15,298 > 74 : 패션 디자인 > <b>패션</b> 디자인
+[INFO|brunch.py:158] 2017-05-20 08:30:15,298 > 42 : 멘탈 관리 심리 탐구 > <b>멘탈</b> 관리 <b>심리</b> 탐구
+[INFO|brunch.py:158] 2017-05-20 08:30:15,299 > 79 : 어학·외국어 > <b>어학</b>·<b>외국어</b>
+[INFO|brunch.py:158] 2017-05-20 08:30:15,299 > 33 : IT 트렌드 > <b>IT 트렌드</b>
+[INFO|brunch.py:158] 2017-05-20 08:30:15,300 > 31 : 인공지능의 미래 > <b>인공지능</b>의 미래
+[INFO|brunch.py:158] 2017-05-20 08:30:15,300 > 63 : 글로 읽는 미술 > 글로 읽는 <b>미술</b>
+[DEBUG|brunch.py:160] 2017-05-20 08:30:15,301 > Completed writing JSON - keyword file
+[DEBUG|brunch.py:175] 2017-05-20 08:30:44,288 > Completed writing JSON - popular file
+[DEBUG|brunch.py:183] 2017-05-20 08:30:44,497 > Completed writing files
