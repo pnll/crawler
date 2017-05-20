@@ -9370,3 +9370,17 @@
 [DEBUG|brunch.py:160] 2017-05-20 22:30:31,361 > Completed writing JSON - keyword file
 [DEBUG|brunch.py:175] 2017-05-20 22:31:42,387 > Completed writing JSON - popular file
 [DEBUG|brunch.py:183] 2017-05-20 22:31:42,908 > Completed writing files
+[DEBUG|brunch.py:191] 2017-05-20 22:32:46,194 > Completed to commit and push on GitHub
+[INFO|brunch.py:158] 2017-05-20 23:00:05,781 > 67 : 시사·이슈 > <b>시사</b>·<b>이슈</b>
+[INFO|brunch.py:158] 2017-05-20 23:00:05,827 > 65 : 직장인 자기계발 > 직장인 <b>자기계발</b>
+[INFO|brunch.py:158] 2017-05-20 23:00:05,827 > 43 : 디자인 스토리 > <b>디자인</b> 스토리
+[INFO|brunch.py:158] 2017-05-20 23:00:05,828 > 59 : 육아 이야기 > <b>육아</b> 이야기
+[INFO|brunch.py:158] 2017-05-20 23:00:05,828 > 34 : 그림·웹툰 > <b>그림</b>·<b>웹툰</b>
+[INFO|brunch.py:158] 2017-05-20 23:00:05,829 > 51 : 커피 이야기 > <b>커피</b> 이야기
+[INFO|brunch.py:158] 2017-05-20 23:00:05,829 > 42 : 멘탈 관리 심리 탐구 > <b>멘탈</b> 관리 <b>심리</b> 탐구
+[INFO|brunch.py:158] 2017-05-20 23:00:05,830 > 68 : 방송·문화 > <b>방송</b>·<b>문화</b>
+[INFO|brunch.py:158] 2017-05-20 23:00:05,830 > 79 : 어학·외국어 > <b>어학</b>·<b>외국어</b>
+[INFO|brunch.py:158] 2017-05-20 23:00:05,831 > 73 : 어렵지 않아요 독립출판 > 어렵지 않아요 <b>독립출판</b>
+[DEBUG|brunch.py:160] 2017-05-20 23:00:05,831 > Completed writing JSON - keyword file
+[DEBUG|brunch.py:175] 2017-05-20 23:00:21,190 > Completed writing JSON - popular file
+[DEBUG|brunch.py:183] 2017-05-20 23:00:21,235 > Completed writing files
