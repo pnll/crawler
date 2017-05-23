@@ -10313,3 +10313,17 @@
 [DEBUG|brunch.py:160] 2017-05-23 10:00:15,125 > Completed writing JSON - keyword file
 [DEBUG|brunch.py:175] 2017-05-23 10:00:50,839 > Completed writing JSON - popular file
 [DEBUG|brunch.py:183] 2017-05-23 10:00:50,981 > Completed writing files
+[DEBUG|brunch.py:191] 2017-05-23 10:03:54,772 > Completed to commit and push on GitHub
+[INFO|brunch.py:158] 2017-05-23 10:30:06,211 > 74 : 패션 디자인 > <b>패션</b> 디자인
+[INFO|brunch.py:158] 2017-05-23 10:30:06,270 > 52 : 인문학·철학 > 브런치로 즐기는 <b>인문학</b>
+[INFO|brunch.py:158] 2017-05-23 10:30:06,270 > 32 : 취향저격 영화 리뷰 > 취향저격 <b>영화</b> 리뷰
+[INFO|brunch.py:158] 2017-05-23 10:30:06,271 > 80 : 어른과 아이 사이 > <b>키덜트</b>
+[INFO|brunch.py:158] 2017-05-23 10:30:06,271 > 23 : 알수록 좋은 경제 > 알수록 좋은 <b>경제</b>
+[INFO|brunch.py:158] 2017-05-23 10:30:06,272 > 70 : 교육 이야기 > <b>교육</b> 이야기
+[INFO|brunch.py:158] 2017-05-23 10:30:06,272 > 71 : 내 마음에 쏙 드는 인테리어 > 내 마음에 쏙 드는 <b>인테리어</b>
+[INFO|brunch.py:158] 2017-05-23 10:30:06,273 > 39 : 사진·촬영 > <b>사진</b>·<b>촬영</b>
+[INFO|brunch.py:158] 2017-05-23 10:30:06,273 > 72 : 마케팅 읽기 > <b>마케팅</b> 읽기
+[INFO|brunch.py:158] 2017-05-23 10:30:06,274 > 65 : 직장인 자기계발 > 직장인 <b>자기계발</b>
+[DEBUG|brunch.py:160] 2017-05-23 10:30:06,275 > Completed writing JSON - keyword file
+[DEBUG|brunch.py:175] 2017-05-23 10:30:22,406 > Completed writing JSON - popular file
+[DEBUG|brunch.py:183] 2017-05-23 10:30:22,472 > Completed writing files
