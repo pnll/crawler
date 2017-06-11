@@ -137,6 +137,7 @@ def job_function():
 
         w2.write('\n</body><html>')
         w2.close()
+        driver.quit()
 
     else:
         w3=codecs.open(file_json, encoding='utf-8', mode='w')
