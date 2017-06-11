@@ -192,7 +192,7 @@ def job_function():
     logger.debug('Completed to commit and push on GitHub')
     
     #time.sleep(5)
-    #driver.quit()
+    driver.quit()
 
 
 
