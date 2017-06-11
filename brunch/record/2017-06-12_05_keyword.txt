@@ -18,3 +18,19 @@
 2017-06-12_0530,	41,	뮤직 인사이드,	<b>뮤직</b> 인사이드,	
 2017-06-12_0530,	31,	인공지능의 미래,	<b>인공지능</b>의 미래,	
 2017-06-12_0530,	46,	감성 에세이,	브런치 <b>감성 에세이</b>,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-06-12 03:01:00.009351</p>
+<p><img alt="너는 피곤했지만 밤 10시까지 있었다." src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/mLU/image/rP8ULE4jOP6QGKYWpnK8s6QpMKg.jpg" width="240">
+</img><br><h3>너는 피곤했지만 밤 10시까지 있었다.</h3><h6>by 너의여자</h6>마법에 걸린다는 것. 한 달 중 하루 정도는 삶을 포기하고 싶은 고통을 느끼고 이틀 정도는 벗어날 수 없는 통증에 시달리며 2~3일 정도는 찝찝꿉꿉 우울함의 증상을 느끼는 것. 이런 증상이 일반적이라고 할 수는 없지만 일단 나는 그렇다. 그렇다고 마법 기간에 아무것도 안하고 집에만 있을 수도 없는 노릇이고, 그러기엔 너무 많은 날을 허비하게 되어 버리니까.</p>
+<p><img alt="연애하면 안 되는 시기" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2TZp/image/hMT1S7HOcAgLgIyvqlomUQotHA8.jpg" width="240">
+</img><br><h3>연애하면 안 되는 시기</h3><h6>by Daniel kj</h6>연애 성애자 사랑학개론 팟캐스트를 같이 하고 있는 형과 어제 카톡을 하는데 이 형이 연애 이외에 다른 영역에 대해서 이런저런 얘기를 하는데 되게 반응이 이상해서 왜 그러는 거냐고 물었다. 그랬더니 뭔가 내 글이 누군가에게 그런 영향을 주는 게 적응이 안된다면서 내 지난 몇 년을 돌아보며 나를 '연애 성애자'라고 불렀다. 사실 조금 더 과격한 표현이 있었는데</p>
+<p><img alt="엔트리 식물, 스킨답서스" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2z7F/image/lZ3ah1APAf8ZTTq3E3GARg9PBjc.JPG" width="240">
+</img><br><h3>엔트리 식물, 스킨답서스</h3><h6>by 모던마더</h6>봄이 되면 만날 수 있는 싱그러운 한 장면. 동네 화원에 진분홍, 노랑, 흰색 다양한 꽃들이 들어 오고, 부채 같은 잎사귀부터 바늘 같은 잎을 가진 포트 화분들이 바닥에 줄지어 앉아 있다. 저절로 발걸음이 그쪽으로 향하는 생명의 힘. 어떤 화분을 선택하던 좋으나, 공기정화를 위한 나의 목적에는 스킨답서스가 1등이다. 스킨답서스는 자라는 속도가 빠른 편이라</p>
+<p><img alt="잃은 후에 오는 것들" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2IJ9/image/V6dEW5CftZ6Ruw_VEq3WsVvKFBs.png" width="240">
+</img><br><h3>잃은 후에 오는 것들</h3><h6>by 하완</h6>최근 연인과 이별을 한 친구가 있다. 떠나간 애인을 그리워하며 너무나도 괴로워하는 모습을 보고 있자니 마음이 무거웠다. 사랑하는 사람을 잃는다는 건 하나의 세계를 잃는다는 것이니까. 그 고통을 알기에 위로를 해주고 싶었지만 딱히 떠오르는 말이 없었다. 그래서 나는 이렇게 말했다."와, 그럼 이제 다른 여자를 만날 수 있다는 얘기네? 완전 좋겠다."아무래도 </p>
+<p><img alt="유럽여행의 꿀팁 [여행자의 기본매너]" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2DeR/image/V7fTMvfkc8m7486GZ0-X2T1VVjM.jpg" width="240">
+</img><br><h3>유럽여행의 꿀팁 [여행자의 기본매너]</h3><h6>by Noh Glet</h6>여행을 다니면서 그 나라 사람의 행동에서 불쾌감을 느낄 때면 '나 지금 인종차별당한 거야?'라고 생각했다. 그런데 지금 와서 생각해보니 인종차별이 아니라 내가 그 나라에 대한 매너를 잘 몰랐고 우리나라에서 습관적으로 했던 행동들이 그 사람들에게 무례하게 느껴졌기 때문이었던 것 같다. 비싼 돈 들여 간 여행에 가서 좋은 기억만 남기고 와야지 괜히 </p>
