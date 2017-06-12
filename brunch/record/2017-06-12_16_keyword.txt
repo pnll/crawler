@@ -18,3 +18,19 @@
 2017-06-12_1630,	46,	감성 에세이,	브런치 <b>감성 에세이</b>,	
 2017-06-12_1630,	1,	우리집 반려동물,	우리집 <b>반려동물</b>,	
 2017-06-12_1630,	41,	뮤직 인사이드,	<b>뮤직</b> 인사이드,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-06-12 13:31:00.009607</p>
+<p><img alt="상위 0.1% 그들이 단독주택으로 되돌아오는 이유" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/32t5/image/fc9nBa74SNvMtamPxOiBFs8gV04.jpg" width="240">
+</img><br><h3>상위 0.1% 그들이 단독주택으로 되돌아오는 이유</h3><h6>by 리얼캐스트</h6> 한국 부유층의 상징 단독주택 ‘도심 속 하나의 성을 연상하게 하는 높은 담, 넓게 깔린 잔디, 창이 넓은 2층 건물’ 70년대 초 한국 사회에서 부유층의 상징은 단독주택이었습니다. 삼성•LG 가문이 한남동에 몰렸고, 성북동에는 주로 현대가(家) 출신들이 주를 이루는 등 재계 인사들이 속속 집결했습니다. 권력이 몰리는 곳에는 자연스럽게 돈이 흘렀고 고급 단</p>
+<p><img alt="윤직원의 태평천하" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/4nZ/image/SE57U5FKU-iN9UrhRXKi3BDZx58.jpg" width="240">
+</img><br><h3>윤직원의 태평천하</h3><h6>by 윤직원</h6>엄지 엄지 척~</p>
+<p><img alt="연애하면 안 되는 시기" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2TZp/image/hMT1S7HOcAgLgIyvqlomUQotHA8.jpg" width="240">
+</img><br><h3>연애하면 안 되는 시기</h3><h6>by Daniel kj</h6>연애 성애자 사랑학개론 팟캐스트를 같이 하고 있는 형과 어제 카톡을 하는데 이 형이 연애 이외에 다른 영역에 대해서 이런저런 얘기를 하는데 되게 반응이 이상해서 왜 그러는 거냐고 물었다. 그랬더니 뭔가 내 글이 누군가에게 그런 영향을 주는 게 적응이 안된다면서 내 지난 몇 년을 돌아보며 나를 '연애 성애자'라고 불렀다. 사실 조금 더 과격한 표현이 있었는데</p>
+<p><img alt="여름부산여행 2박3일 코스, 직장인 휴가에도 알차게" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/1jPF/image/Z3jlouIPRVQaTw7_dY2pw4uqeRQ.JPG" width="240">
+</img><br><h3>여름부산여행 2박3일 코스, 직장인 휴가에도 알차게</h3><h6>by 호텔스닷컴</h6>서울로 대학교를 오기 전까지 제가 태어나고 20년 동안 살아온 저의 고향, 부산! 드디어 이곳을 소개하는 날이 왔어요. 부산은 해운대랑 자갈치시장 말고도 구석구석 좋은 곳이 많은데 늘 똑같은 부산 여행코스 다니시는 분들 보면 조금 아쉬웠어요. 그래서 오늘은 그동안 친구들이 부산 놀러 왔을 때 제가 소개했던 구석구석 부산 2박 3일 여행코스를 공유합니다. </p>
+<p><img alt='"결혼 해봐라, 연애 때처럼 살아지나"' src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2mbu/image/yWTUHKcsROpSWsUF3jBmZ7hPQaw.jpg" width="240">
+</img><br><h3>"결혼 해봐라, 연애 때처럼 살아지나"</h3><h6>by Y lives</h6>로맨틱연애할 때 사랑은 로맨틱 그 자체였다.분위기 좋은 카페, 공원, 여행지에서 남긴 예쁜 사진들맛있는 음식,재미있는 영화,그 사람이 좋아하는 음악,함께 걸었던 모든 길,마음을 담은 손편지,꼭 안겨 서로의 향기에 취하기,부드러운 스킨십,데이트 중에 일어나는 그 모든 일들은 로맨틱했다. 싸웠던 날들도,먼저 연락하고 싶고, 보고싶어하던 마음을 애써 숨기느라로맨</p>
