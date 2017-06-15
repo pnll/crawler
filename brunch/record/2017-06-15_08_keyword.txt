@@ -18,3 +18,19 @@
 2017-06-15_0830,	48,	주말 나들이,	주말 <b>나들이</b>,	
 2017-06-15_0830,	41,	뮤직 인사이드,	<b>뮤직</b> 인사이드,	
 2017-06-15_0830,	31,	인공지능의 미래,	<b>인공지능</b>의 미래,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-06-15 05:01:00.009122</p>
+<p><img alt="여유로운 아침을 보내는 것" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/1bcJ/image/zAEl0bm4rNP-w8M-68d0gX2e9Mw.jpg" width="240">
+</img><br><h3>여유로운 아침을 보내는 것</h3><h6>by Joey</h6>누구나 그러하듯이, 여행을 떠나기 전에 그곳에서 어떻게 시간을 보낼지 생각한다. 시간은 지나가면 결코 돌아오지 않는 것이기에 우리들은 그 시간들을 자신에게 가장 가치 있는 순간들로 채우고자 노력한다. 돌이켜보면 지금까지의 나의 여행들은 최대한 시간을 쪼개어 많은 곳들을 보고 오는, 이른바 뽕을 뽑고 온다는 개념의 여행이었다. 때문에 여행 계획도 철저히 준</p>
+<p><img alt="엄마와 여행하며 알게 된 것들" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2V6W/image/1ROhMBGfOPz6cue_Nx7qUEkbG7o.png" width="240">
+</img><br><h3>엄마와 여행하며 알게 된 것들</h3><h6>by 호사</h6>52년 생. 지금의 내 나이에 벌써 애가 넷이었던 여자.가난과 전쟁으로 다른 형제들을 잃고 7살 위의 언니와 단 둘이 친척집을 전전했던 여자.외로웠던 유년 시절의 기억 때문에 넉넉하지 않은 형편에도 아이를 넷이나 낳았던 여자.평생을 가난과 싸우느라 화장품 냄새보다 땀 냄새가 익숙했던 여자. 그 여자가 바로 우리 엄마다. 엄마가 환갑을 맞던 해, 처음으로 </p>
+<p><img alt="지금 마음이 너무 불안하다면" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/IUBIbS6GSerTadqRvTbHm07FKMs.png" width="240">
+</img><br><h3>지금 마음이 너무 불안하다면</h3><h6>by 멍작가</h6>초등학교 방학이 끝나갈 무렵이면 어김없이 탐구생활과 독후감 그리고 밀린 일기를 다 쓰느라 정신없이 바빴다. 그리고 개학날이면 원래보다 세배는 뚱뚱해진 탐구생활을 품에 꽉 안고 자랑스레 학교에 갔다. 하지만 내가 최우수상, 우수상 하다못해 장려상이라도 받아온 적은 단 한 번도 없었다. 왜냐면 내가 보기엔 이미 충분히 멋졌던 내 탐구생활은 책 한 권을 더 추가</p>
+<p><img alt="수평적 조직문화의 숨은 두려움" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/ENg/image/rLvgE8kaeSrloVuequo17DDtbYY.png" width="240">
+</img><br><h3>수평적 조직문화의 숨은 두려움</h3><h6>by 구기욱</h6>조직문화에 대한 기업의 관심이 점점 높아지고 있다. 기업들은 기존의 권위적 문화로는 다가오는 4차산업의 파고를 감당하기 어렵다는 직감을 하고 있다. 이를 증명하듯 유수의 기업들이 조직문화의 개선을 위한 시도들을 매일같이 언론을 통하여 쏟아내고 있다. 일과 가정 양립, 칼퇴, 수평적 조직문화, 직급 파괴, 별명 부르기, 젊은 조직 등을 외치며 자랑스러워 한</p>
+<p><img alt="오하음/한요한-Good Girl(Ft.버벌진트&amp;지현)" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/Ijp/image/9mXzEUGw-ov962DhCdy11FfbWfY.jpg" width="240">
+</img><br><h3>오하음/한요한-Good Girl(Ft.버벌진트&지현)</h3><h6>by 만땅소울</h6>[오늘하루음악]한요한 - Good Girl(ft.버벌진트&지현) you i need you 못 믿겠지만 내게 더 가까이 와 줄래 how about you 부족한 나지만 네 옆에 있어줄게 1. 세상에서 가장 완벽한 사람이 되기 위해<완벽함은 나의 장점이자 존재의 이유다. 무결점 한 인생을 살기 위해 부단히 노력했다. 노력만큼이나 결과를 만족해야 하는데, 신기</p>
