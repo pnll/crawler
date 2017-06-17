@@ -18,3 +18,17 @@
 2017-06-17_2330,	42,	멘탈 관리 심리 탐구,	<b>멘탈</b> 관리 <b>심리</b> 탐구,	
 2017-06-17_2330,	41,	뮤직 인사이드,	<b>뮤직</b> 인사이드,	
 2017-06-17_2330,	63,	글로 읽는 미술,	글로 읽는 <b>미술</b>,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-06-17 20:31:00.009663</p>
+<p><img alt="수요미식회 곱창 맛집, 정말 맛집일까?" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/-JEu7yGKhtzWHluVaKwFWKvW0SM.png" width="240">
+</img><br><h3>수요미식회 곱창 맛집, 정말 맛집일까?</h3><h6>by YOLO</h6>수요미식회의 허와 실 TV에 나왔다고 해서 모두 맛집인 것은 아니다. 전문가들이 총출동해서 극찬을 금치 않는다 할지라도 실상 그 안을 들여다 보면 분명 광고가 끼어 있기 마련이다. 맛집 탐방을 한다는 수많은 아침방송들의 진위 여부는 그래서 매우 의심스럽다. 방송을 타는 집들만 매번 계속해서 방영되는 것 역시 의심 포인트 중 하나다. 들리는 소문에 의하면, </p>
+<p><img alt="처음엔 도망치기 위해 대학원을 선택했었다." src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/ErY/image/V724wuJ7wqRuRz5fsyPhYUw2s2w.jpg" width="240">
+</img><br><h3>처음엔 도망치기 위해 대학원을 선택했었다.</h3><h6>by SW</h6>오늘 박사과정 1학기 기말 페이퍼를 작성하다 집중이 안되서 잠깐 페이스북에 들어갔어요. 매일 1년 전, 2년 전 등 과거 사진을 보여주는데, 마침 오늘은 4년 전 제가 업로드 한 사진을 보여주더라구요. 그 사진은 바로 4년 전 석사 2학기차의 마지막 과제 인증샷이었습니다. 2013년의 저와 2017년의 제 모습이 어쩜 이렇게 비슷할까? 하는 생각을 하니 웃</p>
+<p><img alt="의사들이 권장하는 최고의 건강 식품 8가지" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2xMI/image/oFd8ziWPlTnfhxHGpUhHAK5xjPI.jpg" width="240">
+</img><br><h3>의사들이 권장하는 최고의 건강 식품 8가지</h3><h6>by 텐바디</h6>건강 관리의 가장 기본은 식습관에 달려 있습니다. 어떤 음식을 선택해서 먹느냐에 따라 삶의 질이 달라질 수 있는데요. 기대 수명이 늘어남에 따라서 건강을 유지하고, 관리하는 일이 중요해진 만큼 건강에 도움을 주는 음식을 섭취해야 합니다. 의사들이 권장하는 최고의 건강 식품 8가지 1. 녹차 녹차에는 강력한 항산화 성분이 함유돼 있는데요. 그 중에서도 </p>
+<p><img alt="스트레스 덜 받으며 직장생활 하는 방법" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/34LR/image/IlBxbR9ADobiHhhkyHUpny6Kfro.jpg" width="240">
+</img><br><h3>스트레스 덜 받으며 직장생활 하는 방법</h3><h6>by 쎄오</h6>우리 삶의 가장 많은 시간을 보내는 회사에서의 시간은 어떤 시간일까? 즐겁고 행복한 시간일까? 괴롭고 스트레스 받는 시간일까? 회사에서 보내는 시간이 즐겁고 행복하다기보다는 직장생활이 재미없고 스트레스받는다는 직장인들이 아마 대다수일 것이다. 직장생활이 행복이라기보다는 불행에 가깝다는 생각을 하는 것이다. 금요일 저녁은 날아갈 듯 행복하지만 일요일 저녁이 </p>
