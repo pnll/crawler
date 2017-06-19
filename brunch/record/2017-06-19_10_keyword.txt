@@ -8,3 +8,19 @@
 2017-06-19_100,	44,	사랑·이별,	<b>사랑</b>·<b>이별</b>,	
 2017-06-19_100,	76,	애니메이션·만화,	<b>애니메이션</b>·<b>만화</b>,	
 2017-06-19_100,	38,	지구한바퀴 세계여행,	지구한바퀴 <b>세계여행</b>,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-06-19 05:31:00.017422</p>
+<p><img alt="작가 인터뷰 29 - 당신의 계이름, 이음" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/test/user/2Fb/image/3guhv670jTxMFPmyoSktWdsOJcI.jpg" width="240">
+</img><br><h3>작가 인터뷰 29 - 당신의 계이름, 이음</h3><h6>by 브런치팀</h6>가족, 연인, 친한 친구 사이에 대화를 하면서 서로의 마음을 읽지 못해 불편한 시간을 보내게 될 때가 종종 있습니다. 사람의 마음을 읽는 능력에 대한 책과 강의들이 많습니다. 그 책과 강의를 들으면, 우리에게 마음을 읽는 능력이 생겨날까요? 브런치에 있는 수많은 글을 읽어보면, 내 말을 듣고 이해한듯한 글들이 많습니다. 이번에 인터뷰를 한 이음 작가 역시</p>
+<p><img alt="부동산, 돈이 아닌 '이것'을 투자하라." src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/3gKv/image/C3QgveYJqcoaBU6fLPhO8_m0BLw.jpg" width="240">
+</img><br><h3>부동산, 돈이 아닌 '이것'을 투자하라.</h3><h6>by 북극성주</h6>이데일리 칼럼 2017.05.28 / 부동산, 돈이 아닌 '이것'을 투자하라. / 장순원 기자 “투자금이 이만큼 있는데, 어디에 투자해야 할까요?” 요즘처럼 매스컴에서 신규 분양 경쟁률이 치솟고 있다거나 집값이 계속 상승하고 있다고 이야기할 때는 조급해하면서 ‘어떤 곳’에 투자해야 하는지 궁금해 한다. 필자도 이런 시절이 있었다. 그리고 수많은 </p>
+<p><img alt="“어머, 이 옷 예쁘다”" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/28hy/image/CHAHymQZtAnuAmOnRRK5nFnjDz8.JPG" width="240">
+</img><br><h3>“어머, 이 옷 예쁘다”</h3><h6>by 최유리</h6>#1 ‘아! 입을 옷이 없다’ 나는 옷을 좋아한다. 그냥 옷이 좋다. 어릴 때도 나는 옷을 좋아했다. 다섯 살 때도, 초등학교 때도, 신해철의 <밤을 잊은 그대에게>를 밤마다 듣던 중학생이었을 때도, ‘독서실 왕 열심’ 고3이었을 때도 그랬다. 일기장 속 어린 나는 대학생이 되면 꼭 멋쟁이가 될 거라고 굳은 결심을 써놓기도 했고, 입고 싶은 옷 그림을 </p>
+<p><img alt="후회하지 않기" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/BOS6o2TmPaUD9M4UpNPhngIAsO0.png" width="240">
+</img><br><h3>후회하지 않기</h3><h6>by 연분도련</h6>오늘 내가 선택한 길이 맞는 길인지 가끔은 확인해보고 싶을 때가 있다. 그럴 때마다 생각을 한다. '정답은 없어요, 다만 우리 후회하지 않기로 해요.' 타인이 나에게 무언가를 강요할 수 없듯 나의 길 또한 강요받으면 안 된다. 어차피 선택은 내가 하는 것이고 걸어가는 것 또한 내가 하는 것이기 때문이다.결국 확인받고 싶은 마음 또한 나에게 묻고 답해야 하는</p>
+<p><img alt="함께 한다는 것" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/1oWY/image/dRYPWi-kKNfDmkTRHdLYqWAkUk4.png" width="240">
+</img><br><h3>함께 한다는 것</h3><h6>by songkingko</h6>- 우리는 살면서 혼자인 적이 거의 없다. 항상 누군가 옆에 있었고 그들은 나의 삶에 일부분이었다. 그게 우정이었건 사랑이었건 간에. 사랑하는 사람과 함께 한다는건 항상 행복하고 즐겁다는 의미는 아닐 것이다. 슬프고 괴로운 일들도 있지만 그걸 이겨나가는 과정 또한 의미있는 시간이다. 그 과정 속에서 '함께'의 의미를 찾고 싶다. 그렇게 또 우리 함께</p>
