@@ -18,3 +18,21 @@
 2017-06-21_0030,	2,	글쓰기 코치,	<b>글쓰기</b> 코치,	
 2017-06-21_0030,	34,	그림·웹툰,	<b>그림</b>·<b>웹툰</b>,	
 2017-06-21_0030,	48,	주말 나들이,	주말 <b>나들이</b>,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-06-20 19:31:00.011709</p>
+<p><img alt="니들이 물맛을 알아? 알아!" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/3hwo/image/FVwqNBf4o__teynA8150Kcen28Q.jpg" width="240">
+</img><br><h3>니들이 물맛을 알아? 알아!</h3><h6>by 마시즘</h6>아리스토텔레스가 틀렸다. 그는 "천연 상태의 물은 그 자체로 무미(tasteless)하다"라고 말했다. 안타깝게도 그 말은 기원전 300년 전에나 통할 법한 이야기가 되었다. 신경과학계의 권위지인 네이처 뉴로사이언스(Nature Neuroscience)의 최신판에는 우리가 물맛을 감지하는 미각 수용체가 있다는 연구가 이슈를 일으켰다. 이번 연구를 통해 인</p>
+<p><img alt="그냥 백수입니다만" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/fzr/image/qu4Kmjq604_eswNiXZiiS3csMHg.JPG" width="240">
+</img><br><h3>그냥 백수입니다만</h3><h6>by 서딘</h6>모임에 갔다. 모임이란 매번 새로운 사람이 나타나는 곳이므로 만날 때마다 자기소개를 한다. 돌아가면서 이름, 나이, 직업, 취미 등등을 말한다. Y는 소개를 한 후 이렇게 덧붙였다. '직업이 없어서 뭐라고 말씀 드릴 게 없네요.' 직업이 있어야 뭔가를 말할 수 있는걸까. 취미든 관심사든 말할 수 있는 거 아닌가. 하는 생각이 들었지만 그만큼 지금 Y에게는 </p>
+<p><img alt="윤직원의 태평천하" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/4nZ/image/SzoJjQZcR8CwnMcXkmwKfgslhn0.jpg" width="240">
+</img><br><h3>윤직원의 태평천하</h3><h6>by 윤직원</h6>혼자 보면 안 보여요</p>
+<p><img alt="[1인용 기분] #제자리걸음" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/3yPO/image/q6PTaTERMBo-3r5OpynuY_BjcjI.jpg" width="240">
+</img><br><h3>[1인용 기분] #제자리걸음</h3><h6>by 윤파랑</h6></p>
+<p><img alt="ep20. 악몽 1" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/14gg/image/smvG9uBDWloMSALxZ3SOBHcHo4Q.jpg" width="240">
+</img><br><h3>ep20. 악몽 1</h3><h6>by DK</h6>원래 생각이 많은 나는 여러 가지 악몽을 자주 꾼다. 그중 하나가 딸의 결혼식 꿈이다. 딸의 결혼식이 악몽으로 인식되는 이유는 뭘까? 내가 직접 결혼을 해보니 결혼, 출산 후의 여자의 삶이 너무 고달파 보이기 때문이다. 특히 내 딸이 앞으로 겪을 일이라고 생각하면 사실 결혼을 안 했으면 좋겠다. 이런 생각을 장인어른도 하셨겠지? 딸을 낳고 키워보니 어느</p>
+<p><img alt="수요미식회 곱창 맛집, 정말 맛집일까?" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/-JEu7yGKhtzWHluVaKwFWKvW0SM.png" width="240">
+</img><br><h3>수요미식회 곱창 맛집, 정말 맛집일까?</h3><h6>by YOLO</h6>수요미식회의 허와 실 TV에 나왔다고 해서 모두 맛집인 것은 아니다. 전문가들이 총출동해서 극찬을 금치 않는다 할지라도 실상 그 안을 들여다 보면 분명 광고가 끼어 있기 마련이다. 맛집 탐방을 한다는 수많은 아침방송들의 진위 여부는 그래서 매우 의심스럽다. 방송을 타는 집들만 매번 계속해서 방영되는 것 역시 의심 포인트 중 하나다. 들리는 소문에 의하면, </p>
