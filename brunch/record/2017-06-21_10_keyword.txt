@@ -8,3 +8,21 @@
 2017-06-21_100,	2,	글쓰기 코치,	<b>글쓰기</b> 코치,	
 2017-06-21_100,	34,	그림·웹툰,	<b>그림</b>·<b>웹툰</b>,	
 2017-06-21_100,	48,	주말 나들이,	주말 <b>나들이</b>,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-06-21 05:31:00.022918</p>
+<p><img alt="제주 동쪽의 끝이 아닌 새로운 시작_지미오름" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/1aMx/image/-7gldWc9GWdm5_IwXC45REhH8-A.jpg" width="240">
+</img><br><h3>제주 동쪽의 끝이 아닌 새로운 시작_지미오름</h3><h6>by nugury</h6>지미오름에 오르는 일은 어쩌면 더 이상 새로울 수 없는 제주의 당연한 현상이다. 올레길의 21코스에 자리 잡은 이유이기도 하지만 일출의 명소로 이곳만 한 곳이 또 있을까. 수없이 많은 사람들이 일출봉을 오르지만 일출봉의 진정한 가치를 아는 일은 일출봉에 올라야 아는 것이 아니다. 에펠탑에 올라서 보는 파리도 아름답겠지만 에펠탑이 포함되어 있는 파리의 풍경</p>
+<p><img alt="급여명세서 읽는 법" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2pEM/image/aA5lrVLpwRnkKxa03VB9U-3lN5Q.jpg" width="240">
+</img><br><h3>급여명세서 읽는 법</h3><h6>by 비즈폼</h6>월급을 받았다고 해서 끝난 게 아닙니다! 월급을 받았을 때 반드시 확인해야 하는 문서가 있는데요. 바로 급여명세서입니다. 위는 한 신입사원 갹갹씨의 이야기입니다. 열심히 취업 준비를 하던 갹갹이는 어느 날 원하던 기업에서의 신입 채용공고를 발견했다! 갹갹이가 지원하고자 하는 A사의 채용공고문에는 월 급여가 200만원으로 명시되어 있다. 성실히 취업 준비</p>
+<p><img alt="함께 한다는 것" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/1oWY/image/dRYPWi-kKNfDmkTRHdLYqWAkUk4.png" width="240">
+</img><br><h3>함께 한다는 것</h3><h6>by songkingko</h6>- 우리는 살면서 혼자인 적이 거의 없다. 항상 누군가 옆에 있었고 그들은 나의 삶에 일부분이었다. 그게 우정이었건 사랑이었건 간에. 사랑하는 사람과 함께 한다는건 항상 행복하고 즐겁다는 의미는 아닐 것이다. 슬프고 괴로운 일들도 있지만 그걸 이겨나가는 과정 또한 의미있는 시간이다. 그 과정 속에서 '함께'의 의미를 찾고 싶다. 그렇게 또 우리 함께</p>
+<p><img alt="#42 너의 목소리가 들려" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/w0ljo5f4KkZKCDgkvyDxs6QH-XM.png" width="240">
+</img><br><h3>#42 너의 목소리가 들려</h3><h6>by TK TOON</h6>같이 오래 살아서 일까?!놀라울 정도로 같은 생각을 할 때가 많다웹툰/만화/그림일기/일상/일러스트Instagram </p>
+<p><img alt="감성이 촌스러" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/7Rt/image/g6rN-HknNTJWp8x9UQsMKev3pN8.jpg" width="240">
+</img><br><h3>감성이 촌스러</h3><h6>by 김하루</h6>언제나 쿨한 사람이 되고 싶었다.내 안에 담기고 남는 것들도 질척이는 감정이 아닌 기분 좋은 잔상이기를 바랬다. 다시 들여다봐도 이불 킥 하거나 땅 파고 들어가지 않을 그런 감정들만 남아 괴롭지 않기를 원했다. 나에게 가장 중요한 건 편안한 상태를 유지하는 것이었다. 언제나 흔들림 없이 그 모양 그대도 있는 바위처럼! 편안한 나를 유지하기 위해 최선을 다했</p>
+<p><img alt="집까지 가는 방법" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/1M78/image/lbcKdVNJiLORE8qKDT7entv7J0s.png" width="240">
+</img><br><h3>집까지 가는 방법</h3><h6>by 멍작가</h6> </p>
