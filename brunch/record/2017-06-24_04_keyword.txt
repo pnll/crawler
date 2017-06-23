@@ -8,3 +8,21 @@
 2017-06-24_040,	42,	멘탈 관리 심리 탐구,	<b>멘탈</b> 관리 <b>심리</b> 탐구,	
 2017-06-24_040,	63,	글로 읽는 미술,	글로 읽는 <b>미술</b>,	
 2017-06-24_040,	46,	감성 에세이,	브런치 <b>감성 에세이</b>,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-06-23 23:31:00.009304</p>
+<p><img alt="귀여워" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/JW5/image/3SFzeVkbs7OIQjhWz4PWllTELtg.jpg" width="240">
+</img><br><h3>귀여워</h3><h6>by 호두</h6>귀여움이란.. 뭘까.. 호두툰 / 일상툰 / 연애권장..?툰</p>
+<p><img alt="‘먹빵’ 나서게 하는 지역 명물 빵집, 특별시&amp;광역시 " src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/3rYK/image/1jfjMonMT8GInAmM9Qx2TEqXmZY.jpg" width="240">
+</img><br><h3>‘먹빵’ 나서게 하는 지역 명물 빵집, 특별시&광역시 </h3><h6>by 대한민국구석구석</h6>많은 분들이 밥보다 더 좋아하는 그 메뉴, 바로 빵!편하게, 그리고 맛있게 한 끼 뚝딱할 수 있는 빵은 언제 먹어도 좋습니다.최근엔 프렌차이즈 빵집보다는 지역의 소규모 빵집이 인기 있는데요.대구의 삼송빵집, 대전의 성심당, 군산의 이성당 등은 전국을 빵 터트린 지역 빵 브랜드로 자리잡은 사례입니다.이들 빵집의 명성을 넘보는 전국의 빵 맛집들이 있다고 해서 </p>
+<p><img alt="그 남자 너무 애매하다" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/1jzH/image/opYjal28TNLxlEdSYSbPDdTat9I.jpg" width="240">
+</img><br><h3>그 남자 너무 애매하다</h3><h6>by Ko Ho</h6>해줘도 된다. 다만 끌려 가듯 이해해 주는 건 심사숙고가 필요하다. 여자나 남자나 호감을 먼저 표현하는 건 용기가 필요하다. 진심으로 호감을 갖는 사람에게라면 더 큰용기를 내야 한다. 용기를 내 애틋한 감정을 표현했지만 상대방의 반응이 국제외교하듯 애매모호한 태도를 취한다면 당신 또한 외교를 할 준비를 해야 한다. 끌려가듯 연애를 해서는 안 된다. 좋다</p>
+<p><img alt="이왕이면 감사 19. 쇼핑" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/1Red/image/rEcDrmxFIOY-s49_kZaIhE6tAek.jpg" width="240">
+</img><br><h3>이왕이면 감사 19. 쇼핑</h3><h6>by 스즈</h6></p>
+<p><img alt="숨은 볼꺼리와 맛집 찾아 부산 골목 여행" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/3fuW/image/JnhsKnQ2T6nZK7Jl-QiSrgh25ss.JPG" width="240">
+</img><br><h3>숨은 볼꺼리와 맛집 찾아 부산 골목 여행</h3><h6>by 트래비 매거진</h6>당신이 부산의 골목으로 가야 하는 이유 문화가 총체적인 생존방식이라면 마을과 골목은 분명 치열한 문화의 현장이다. 영도의 깡깡이길에서 들었던 생존을 위한 망치소리, 묘지 위에 집을 짓고 마을을 형성한 아미비석문화마을의 모습은 부정할 수 없는 삶의 흔적이자 우물처럼 깊은 문화유산이다. 이제 막 닻을 내린 깡깡이예술마을 영도하면 국내 최초의 연륙교인 영도다리</p>
+<p><img alt="지원자가 면접에서  꼭 해야 하는 질문 " src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/Ezy/image/CLcmSRzY9OU77bOR8LQuDWIq8qk.jpg" width="240">
+</img><br><h3>지원자가 면접에서  꼭 해야 하는 질문 </h3><h6>by 김팀장</h6>면접의 마지막 단계는 늘 후보자로부터 질문을 받는 순서이다. ‘어떠한 것도 좋으니’ 라는 단서를 달면서 열린 마음으로 듣겠다라는 자세를 보여준다. 하지만 ‘어떠한’ 이라는 형용사에 속으면 안 된다. 그렇다면 과연 어떠한 질문들을 해야 면접관의 마음을 긍정적으로 바꾸거나 유리한 쪽으로 굳히기 (?) 가 가능할까? 첫번째, 무조건 자신이 지원한 직무</p>
