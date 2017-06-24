@@ -18,3 +18,21 @@
 2017-06-24_1830,	59,	육아 이야기,	<b>육아</b> 이야기,	
 2017-06-24_1830,	23,	알수록 좋은 경제,	알수록 좋은 <b>경제</b>,	
 2017-06-24_1830,	1,	우리집 반려동물,	우리집 <b>반려동물</b>,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-06-24 13:31:00.014059</p>
+<p><img alt="[1인용 기분] #제자리걸음" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/3yPO/image/q6PTaTERMBo-3r5OpynuY_BjcjI.jpg" width="240">
+</img><br><h3>[1인용 기분] #제자리걸음</h3><h6>by 윤파랑</h6></p>
+<p><img alt="귀여워" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/JW5/image/3SFzeVkbs7OIQjhWz4PWllTELtg.jpg" width="240">
+</img><br><h3>귀여워</h3><h6>by 호두</h6>귀여움이란.. 뭘까.. 호두툰 / 일상툰 / 연애권장..?툰</p>
+<p><img alt="권태의 유혹" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/lUS/image/3BvS60v_PXJpsMbJiWuneHICHkg.jpg" width="240">
+</img><br><h3>권태의 유혹</h3><h6>by JEHEE</h6>"우리 권태기야?"라고 묻는 내 질문에 그는 적잖이 당황했다. 특별할 것 없는 일상의 연속이다. 유독 더 지랄맞게 싸울 것도 없었고, 유난히 더 달달하지도 않은 그런 날들의 연속이다. 이게 뭐지. 왜 별 감흥이 없지. 하다가 물었다. 우리, 권태기야? 하고. PM 11:00. 그는 1층 사무실에서 열심히 노트북을 들여다 보고 있었고 나는 2층 사무실에서</p>
+<p><img alt="ep20. 악몽 1" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/14gg/image/smvG9uBDWloMSALxZ3SOBHcHo4Q.jpg" width="240">
+</img><br><h3>ep20. 악몽 1</h3><h6>by DK</h6>원래 생각이 많은 나는 여러 가지 악몽을 자주 꾼다. 그중 하나가 딸의 결혼식 꿈이다. 딸의 결혼식이 악몽으로 인식되는 이유는 뭘까? 내가 직접 결혼을 해보니 결혼, 출산 후의 여자의 삶이 너무 고달파 보이기 때문이다. 특히 내 딸이 앞으로 겪을 일이라고 생각하면 사실 결혼을 안 했으면 좋겠다. 이런 생각을 장인어른도 하셨겠지? 딸을 낳고 키워보니 어느</p>
+<p><img alt="왜 장례식장에서는 육개장을 먹는가" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/w6H/image/Js0my8G02FMnkhGn0OW8Y44dBmk" width="240">
+</img><br><h3>왜 장례식장에서는 육개장을 먹는가</h3><h6>by 이준혁</h6>한국에서는 장례식 후 식사하러 가면 육개장을 자주 접하게 되는데 누가 왜 장례식장에서는 육개장을 먹는가라는 질문을 웹에 올렸는데 누가 아래와 같이 대답을 했다고 합니다. 많은 양을 요리하기 쉽고 반찬 없이 쉽게 먹을 수 있는 영양식이기 때문에 그렇답니다 그러자 그 글 아래에 모든 일을 심각하게 분석 발표하시기 좋아하시는 분들이 댓글을 달기 시작했죠. 장례식</p>
+<p><img alt="비행기 창가 쪽에 앉아야 하는 이유" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2D9/image/CyzXGCE0f24oc2ce4OAw7nuc1yQ.jpg" width="240">
+</img><br><h3>비행기 창가 쪽에 앉아야 하는 이유</h3><h6>by Bong</h6>이런 멋진 뷰를 놓치지 않으려면 비행기 창가쪽 자리를 꼭 사수해야 할 듯 하다. 비행기에서 찍은 전세계의 아름다운 풍경이다.</p>
