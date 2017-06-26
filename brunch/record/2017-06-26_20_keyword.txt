@@ -8,3 +8,21 @@
 2017-06-26_200,	52,	인문학·철학,	브런치로 즐기는 <b>인문학</b>,	
 2017-06-26_200,	43,	디자인 스토리,	<b>디자인</b> 스토리,	
 2017-06-26_200,	74,	패션 디자인,	<b>패션</b> 디자인,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-06-26 15:31:00.007154</p>
+<p><img alt="[1인용 기분] #제자리걸음" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/3yPO/image/q6PTaTERMBo-3r5OpynuY_BjcjI.jpg" width="240">
+</img><br><h3>[1인용 기분] #제자리걸음</h3><h6>by 윤파랑</h6></p>
+<p><img alt="여름에 떠나는 강릉 1박 2일 여행코스" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/STq/image/fPlyi_UoVZMIP2xS9-OfHWscjDQ.jpg" width="240">
+</img><br><h3>여름에 떠나는 강릉 1박 2일 여행코스</h3><h6>by ExpediaKR</h6>서울에서 자동차로 3시간, 가까운 거리의 강릉. 태백산맥의 경치와 푸른 동해바다를 감상할 수 있다. 자연경관 외에도 여러 즐길거리가 있는 강릉은 여름에 떠나면 더 좋다. 익스피디아에서 눈부신 여름 강릉 1박 2일 여행 코스를 추천한다. 01. 해돋이로 시작하는 여행, 정동진 대한민국에서 해돋이로 가장 유명한 명소. 떠오르는 태양을 보며 충만해진 감성과 함께</p>
+<p><img alt=" 커피, 끊을 수 없다면 건강하게! " src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2ycP/image/U7HTPjvlNQvQVr6em4G4WWBW1jw.jpg" width="240">
+</img><br><h3> 커피, 끊을 수 없다면 건강하게! </h3><h6>by 싱글리스트</h6>커피에 있는 카페인은 피곤을 달래고 정신을 깨운다. 하지만 커피의 카페인은 장기적으로 보면 건강에 악영향을 끼친다. 또 커피는 몸이 철분을 흡수하는 걸 방해하기 때문에 빈혈 환자나 비건(완전 채식주의자) 등은 커피를 마시지 않아야 한다. 커피는 칼슘 흡수도 감소시켜 골다공증이 있거나 뼈가 부러진 사람들에게도 좋지 않다. 그럼에도 커피를 끊기 힘들다면 다음 </p>
+<p><img alt="여수 바다를 확실하게 즐길 수 있는,여수 호텔 추천" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/wlQ/image/5IkKlmP_pMljA-opk9jnzrChfys.jpg" width="240">
+</img><br><h3>여수 바다를 확실하게 즐길 수 있는,여수 호텔 추천</h3><h6>by 올스테이 조사장</h6>여수 밤바다~ 언제부터 이리도 여수가 유명했던가. 장범준의 여수 밤바다 노래를 들으면 금방이라도 여수로 떠나고 싶어 진다. 그래서 이번에는 여수 바다를 확실하게 즐기면서 멋진 호텔 라이프를 누릴 수 있는 여수 호텔들을 소개한다. 1. 히든 베이 호텔 전 객실이 오션뷰로 멋진 전망을 자랑하는 호텔. 여름에는 야외 풀장도 운영하고 있다. 호텔 주변은 조용한 </p>
+<p><img alt="부동산 집 계약 전 꼭 알아야 할
+7가지" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2xEY/image/v9cC6DR8vYJ13adb2z1cqN-NwkU.jpg" width="240">
+</img><br><h3>부동산 집 계약 전 꼭 알아야 할
+7가지</h3><h6>by 하우스꾸미기</h6>계약금, 등기부등본, 임대... 집을 구할 때 알아야 할 것들이 참 많지만 어려운 용어들 때문에 어렵다고 생각하신 분들 많으시죠? 오늘은 집 구하기 초보인 여러분들을 위한 집 구할 때 꼭 알아야 할 사실들을 준비했어요! 다들 똑똑한 계약 하세요~! 1) 우선순위 정하기 학교나 직장과의 거리, 예산, 집 상태 등 고려해야 할 집의 조건이 너무나도 많죠! 나에</p>
