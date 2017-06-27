@@ -8,3 +8,29 @@
 2017-06-27_100,	52,	인문학·철학,	브런치로 즐기는 <b>인문학</b>,	
 2017-06-27_100,	43,	디자인 스토리,	<b>디자인</b> 스토리,	
 2017-06-27_100,	74,	패션 디자인,	<b>패션</b> 디자인,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-06-27 05:31:00.008706</p>
+<p><img alt="[브랜드 인기템]예쁘고 시원한,린넨 원피스 BEST10" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2Fkg/image/7jOeEgagQlniPuV_h0XW2zD8y9U.png" width="240">
+</img><br><h3>[브랜드 인기템]예쁘고 시원한,린넨 원피스 BEST10</h3><h6>by 요일 Yoil</h6>출근길 바쁜 아침에,혹은 오랜만에 하는 주말 데이트에신경 써서 예쁘게 입고 싶지만이상하게도 아침엔 늘 시간이 부족하고,차려입자니 더워서 엄두가 안 난다면?단정하지만 예쁜데,간편하고 시원하기까지 한린넨 원피스 어떠세요?원피스로 되어있어상의와 코디할 하의를 고민하지 않아도 되고,샌들이나 슬립온, 어떤 신발에도 어울리는고마운 효자템~!올여름 없으면 섭섭할 브랜드</p>
+<p><img alt="당신이 스쿠버 다이빙을 해야 하는 9가지 이유" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/1WHt/image/OsAi_GAtAW47q8pgEsAOophPQfo.jpg" width="240">
+</img><br><h3>당신이 스쿠버 다이빙을 해야 하는 9가지 이유</h3><h6>by 에디터 조하나</h6>제 블로그를 꾸준히 팔로우해주신 분들은 잘 아시겠지만, 저는 한국에서 대형 패션 매거진 피처 에디터로 활동했습니다. 제 전문 분야는 음악이었고, 많은 국내외 뮤지션들의 앨범 제작 과정을 지켜보며 공연을 보고 인터뷰를 했습니다. 영화나 전시, 여행 등 라이프스타일 전반에 관한 트렌드를 관찰하고 글을 쓰는 일도 함께였지요. 제가 하고 싶은 일을 하고 있었고, </p>
+<p><img alt="내 눈엔 너만 보여서" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/3DeutmGpYceroJN0SWYxoAe4I-s.png" width="240">
+</img><br><h3>내 눈엔 너만 보여서</h3><h6>by yoong</h6>아무 말 안해줘서 고마워....<주경야dog> 웹툰 도전 중!네이버도전만화 https://goo.gl/fUVjz7,다음웹툰 https://goo.gl/J7gkrp </p>
+<p><img alt="새우 베이컨 말이" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/7mJ/image/U3fog3POcGKALLRH7CB92lj5Ibg" width="240">
+</img><br><h3>새우 베이컨 말이</h3><h6>by 강선생</h6>강선생 하우스 놀러가기 : http://kangsunseng.tistory.com </p>
+<p><img alt="그림을 넘어 전시를 보다" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/ddOWnqScqwO6U6xC9w7Lq-3cd1I.png" width="240">
+</img><br><h3>그림을 넘어 전시를 보다</h3><h6>by Yihwahaha</h6>그 누구도 전시를 보는 방법을 알려준 사람이 없었다아니면 내가 깊은 생각을 하지 않았을지도..카페 갤러리지만전시기획을 해보란 말에이미 이전에 몇번 해봤어서 그냥 하던대로 하면 되겠지 했지만막상 새로 지어지고 있는 카페의 모습을 보니생각없이 하면 안되겠단 생각에여러 책을 택해 읽어보았다큐레이터가 무엇인지. 그들이 전시를 어떻게 준비하는지. 그리고 그 전시 안</p>
+2017-06-27_1030,	77,	건축·설계,	<b>건축</b>·<b>설계</b>,	
+2017-06-27_1030,	63,	글로 읽는 미술,	글로 읽는 <b>미술</b>,	
+2017-06-27_1030,	80,	어른과 아이 사이,	<b>키덜트</b>,	
+2017-06-27_1030,	41,	뮤직 인사이드,	<b>뮤직</b> 인사이드,	
+2017-06-27_1030,	42,	멘탈 관리 심리 탐구,	<b>멘탈</b> 관리 <b>심리</b> 탐구,	
+2017-06-27_1030,	69,	쉽게 읽는 역사,	쉽게 읽는 <b>역사</b>,	
+2017-06-27_1030,	71,	내 마음에 쏙 드는 인테리어,	내 마음에 쏙 드는 <b>인테리어</b>,	
+2017-06-27_1030,	75,	게임 이야기,	<b>게임</b> 이야기,	
+2017-06-27_1030,	32,	취향저격 영화 리뷰,	취향저격 <b>영화</b> 리뷰,	
+2017-06-27_1030,	78,	뷰티 인사이드,	<b>뷰티</b> 인사이드,	
