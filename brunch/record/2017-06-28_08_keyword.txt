@@ -18,3 +18,19 @@
 2017-06-28_0830,	75,	게임 이야기,	<b>게임</b> 이야기,	
 2017-06-28_0830,	32,	취향저격 영화 리뷰,	취향저격 <b>영화</b> 리뷰,	
 2017-06-28_0830,	78,	뷰티 인사이드,	<b>뷰티</b> 인사이드,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-06-28 04:01:00.015906</p>
+<p><img alt="'인생을 바꾸는' 직장인 월급관리 노하우5" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2qbX/image/uMQr-bD9n8NACN0PNg-xb3UXEWA.jpg" width="240">
+</img><br><h3>'인생을 바꾸는' 직장인 월급관리 노하우5</h3><h6>by The Next Story</h6></p>
+<p><img alt="여름 햇볕으로 인한 화상에 좋은 식품 6가지" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2xMI/image/0YETBCauUdiqH6seUNYcGMEi0_w.jpg" width="240">
+</img><br><h3>여름 햇볕으로 인한 화상에 좋은 식품 6가지</h3><h6>by 텐바디</h6>뜨거운 여름 햇볕에 장시간 노출되면, 피부가 손상될 수 있는데요. 감자, 오트밀, 녹차, 석류, 딸기, 오이 등을 활용해서 자외선으로부터 피부를 보호하고, 화상으로 인한 탄 피부를 진정시키는 효과를 볼 수 있습니다. 피부의 조기 노화를 예방하기 위해서는 관리가 중요합니다. 여름 햇볕으로 인한 화상에 좋은 식품 6가지 1. 감자 감자의 빳빳한 화합물은 </p>
+<p><img alt="퇴사하면, 비로소 보이는 것들" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/1ZCd/image/kqwP147-ckrlJdnKMSV2dy7OrXc.jpg" width="240">
+</img><br><h3>퇴사하면, 비로소 보이는 것들</h3><h6>by 작은바이킹</h6>"거긴 그래도 좋은 회사였다. 나와 보니까, 알겠더라고.”예상했던 대로다. 얼마 전 직장을 옮긴 그는 세상 다 초월한 얼굴로 맥주를 쭉 들이켜곤 이제는 익숙한 저 대사를 쳤다. 내 어깨를 도닥이며 '넌 꽉 붙어 있으라'는 당부의 말도 잊지 않고. 아무 말 없이 그의 빈 잔을 채워 주며 나는 생각했다. ‘세상에서 제일 맛있는 빵은, 갓 구운 빵. 세상에서 제</p>
+<p><img alt="더 랍스터, 중간은 없는 사랑" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/13X8/image/AO5weK98a28UQNrKp7boFNH8Ank.jpg" width="240">
+</img><br><h3>더 랍스터, 중간은 없는 사랑</h3><h6>by 폐인이씨</h6>- Couple or Die 이 영화는 설정부터 굉장히 극단적이다. 이 세계야말로 진정한 커플천국 솔로지옥이라고 할 수 있다. 솔로인 사람은 호텔로 들어가게 되고, 그 안에서 45일 동안 진정한 사랑인 짝을 찾지 못하면 동물이 되어야만 한다. 자신의 목숨을 지키고, 동물이 되지 않기 위해서는 어떻게든 짝을 찾아야만 하는 것이다. 주인공인 데이비드는 </p>
+<p><img alt="후두염, 급성과 만성의 차이" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/30pG/image/dTc6YvOwE0UbhULYszqY9soAZzc.jpg" width="240">
+</img><br><h3>후두염, 급성과 만성의 차이</h3><h6>by 경희숨편한한의원</h6>후두염은 염증에 의해 후두가 빨갛게 부어오르고 열이 나며 통증을 일으키는 질환이다. 후두의 염증은 단순히 후두에만 국한되기도 하지만, 인접한 주변의 기관이나 기관지에도 병변을 동반하는 경우가 많기 때문에 병변의 범위에 따라 후두염, 후두기관염, 후두 기관 기관지염으로도 불린다. 후두가 좁아지면 공기가 통하지 않게 되어 호흡곤란이 오고, 심하면 질식으로 사망</p>
