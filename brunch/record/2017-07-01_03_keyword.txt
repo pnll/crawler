@@ -18,3 +18,19 @@
 2017-07-01_0330,	56,	멋진 캘리그래피,	멋진 <b>캘리그래피</b>,	
 2017-07-01_0330,	1,	우리집 반려동물,	우리집 <b>반려동물</b>,	
 2017-07-01_0330,	9,	직장인 현실 조언,	<b>직장인</b> 현실 조언,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-06-30 22:31:00.008807</p>
+<p><img alt="아이 없는 완전한 삶 " src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/oAh/image/UF7LGG2jbi9bFAlo0GYwJ7VkaPo.JPG" width="240">
+</img><br><h3>아이 없는 완전한 삶 </h3><h6>by 꾹꿍</h6>아이 없는 완전한 삶 (엘렌L. 워커) 아이가 있어도 불행할 수 있듯이 아이가 없어도 행복할 수 있다. 나는 이 책 제목이 마음에 든다. 마치 우리 부부를 소개하기를 '결혼 8년차에 아이가 없는 부부'라고 말하기 보다 '8년차 신혼부부'라고 소개하면 더 기분이 좋아지듯 말이다. 책을 쓴 작가는 미국의 임상심리학자이며 결혼은 했지만 아이가 없는 사</p>
+<p><img alt="1800년대 말 우리 조상들은 영어가 능통했다!! " src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/3mdJ/image/n45dyxT1u7hNE-_S3yaTdEgIGmw.jpg" width="240">
+</img><br><h3>1800년대 말 우리 조상들은 영어가 능통했다!! </h3><h6>by 최재봉</h6>1. 현재까지 고착되어 온, 일제식 영어 ‘당신이 영어가 안 되는 이유는 당신 탓이 아니라 조상 탓이다’란 지난번 글에서 영어가 안 되는 이유가 당신 탓이 아니라 조상 탓인 이유를 자세히 설명했다. 우리 조상이 1905년 일본에게 나라를 빼앗길 때, 나라와 함께 제대로 된 영어 교육도 빼앗겨버린 뼈 아픈 역사를 살펴보았다. 영어 교육이 일제 강점기를 시작</p>
+<p><img alt="no.14. 진짜 사랑인지 알 수 있는 5가지 진실" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/f-Dzmijlzp4yT9h4EZ58hqbnelw.png" width="240">
+</img><br><h3>no.14. 진짜 사랑인지 알 수 있는 5가지 진실</h3><h6>by Lisa J</h6>"그가 먼저 고백했죠. 사랑한다고요.""지금껏 가장 사랑했던 사람이 나라고 말하더군요."사랑을 해본 사람은 안다. 백번 천번 들어도 듣고 싶은 그 말. "사랑해."하지만 상대의 그 어떤 행동에도 사랑이 보이지 않는다면, 간혹 또는 때때로 사랑하는 사람으로서의 태도가 아니라는 생각이 든다면 이것은 사랑일까?사랑에 대한 가장 흔한 착각.사랑해라는 말.1. 사랑</p>
+<p><img alt="점점 잃어가는 '외모' 대신 얻어야 하는 것" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/3dzl/image/KmJ9Kjr6d9WPtc50mxsn6UFsBJw.jpg" width="240">
+</img><br><h3>점점 잃어가는 '외모' 대신 얻어야 하는 것</h3><h6>by Kay</h6>술을 마실 수 있게 되고, 군대를 다녀오고, 대학을 졸업하며, 사회생활에 접어들었습니다. 이런 관문들을 넘어올 때마다 '나이를 먹음'을 느낍니다. 그래서 나이를 먹는다는 건 말 그대로 숫자가 더해지는 것이 아니라, 책임을 져야 할 것들이 늘어난다는 뜻임을 깨닫곤 합니다. 아마, 앞으로는 승진할 때, 결혼할 때, 아이들이 커 가는 것을 보며 나이를 먹는다는 </p>
+<p><img alt="집을 잘사야 인생이 풀린다" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/3Le0/image/rB_oSMkku_PIJlPbSuVlnWDja9o.jpg" width="240">
+</img><br><h3>집을 잘사야 인생이 풀린다</h3><h6>by 리치빌</h6>우리나라는 부모세대의 집 없는 설움과 개발붐에 따른 재테크의 기억으로 인해 집에 대한 집착이 강하고 ‘무조건 집부터’라는 인식이 인생전반을 지배하고 있다. 집은 주거의 안정과 자산으로서의가치측면에서 중요한 의미를 갖는다. 하지만 집은 목돈이 들어가고 대출을 동원해야 하므로 잘되면 자산증식에 큰 도움이 되지만 반대로 집을 잘못사서 낭패를 보는 경우를 심심찮게</p>
