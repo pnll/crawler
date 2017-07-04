@@ -8,3 +8,19 @@
 2017-07-04_150,	87,	나만의 레시피,	나만의 <b>레시피</b>,	
 2017-07-04_150,	74,	패션 디자인,	<b>패션</b> 디자인,	
 2017-07-04_150,	73,	어렵지 않아요 독립출판,	어렵지 않아요 <b>독립출판</b>,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-07-04 10:31:00.008875</p>
+<p><img alt="1800년대 말 우리 조상들은 영어가 능통했다!! " src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/3mdJ/image/n45dyxT1u7hNE-_S3yaTdEgIGmw.jpg" width="240">
+</img><br><h3>1800년대 말 우리 조상들은 영어가 능통했다!! </h3><h6>by 최재봉</h6>by 애로우잉글리시 최재봉1. 현재까지 고착되어 온, 일제식 영어‘당신이 영어가 안 되는 이유는 당신 탓이 아니라 조상 탓이다’란 지난번 글에서 영어가 안 되는 이유가 당신 탓이 아니라 조상 탓인 이유를 자세히 설명했다. 우리 조상이 1905년 일본에게 나라를 빼앗길 때, 나라와 함께 제대로 된 영어 교육도 빼앗겨버린 뼈 아픈 역사를 살펴보았다. 영어 교</p>
+<p><img alt="피자 사먹을줄 모르는 엄마" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/z59/image/TvVLlNFJAMzJe2V9cig3At5ZQrM.jpg" width="240">
+</img><br><h3>피자 사먹을줄 모르는 엄마</h3><h6>by Best everyday</h6>아침부터 눈물이 난다. 엄마와의 짧은 대화에서 나는 그만 눈물을 흘리고 말았다. 지금도 눈물이 난다. 흔한 피자 이야기를 하다가 그랬다. “요즘 피자값이 왜 그래. 내 돈으로 피자는 못 사먹겠다.” “ 피자는 내가 사주잖아.” 지갑이 앓아져도 엄마와 한달에 한두번 사먹는 피자 정도는 포기할 수 없다. 엄마는 그랬다. 본인의 돈으로 시장 도너츠는 사</p>
+<p><img alt="윤직원의 태평천하" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/4nZ/image/D6942SlxGHGuSYmrRLX_WBxc82Q.jpg" width="240">
+</img><br><h3>윤직원의 태평천하</h3><h6>by 윤직원</h6>검정 바지만 다섯 벌째 </p>
+<p><img alt="전자레인지에 넣으면 절대 안되는 6가지 금지 목록" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2JVJ/image/2qc2z-v-gRnmyvkZj3hoUbxYdmc.jpg" width="240">
+</img><br><h3>전자레인지에 넣으면 절대 안되는 6가지 금지 목록</h3><h6>by 허니팁</h6>컵라면이나 일회용 용기 등을 아무렇지 않게 전자레인지에 넣고 돌리는 경우를 아직도 종종 찾아볼 수 있는데요. 스티로폼, 종이봉투, 플라스틱 등은 환경 호르몬이나 유해 가스를 섭취할 수 있으며, 쿠킹호일을 포함한 금속류 물질은 스파크가 일어나고, 화재가 발생할 수 있습니다. 또한, 달걀이나 밀폐용기, 포도와 같은 과일은 전자레인지 내에서 터질 수 있으니 주의</p>
+<p><img alt="오래된 연인들이 헤어지지 못하는 이유" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/wH0/image/qoUCV103xGjF59QtJhK1und3nek.jpg" width="240">
+</img><br><h3>오래된 연인들이 헤어지지 못하는 이유</h3><h6>by 다희</h6>요즈음 그녀는 책 한 권을 읽는 데 엿새가 걸렸고, 어디까지 읽었는지 해당 페이지를 잊곤 했으며, 음악과는 아예 담을 쌓고 지냈다. 그녀의 집중력은 옷감의 견본이나 늘 부재중인 한 남자에게 향해 있을 뿐이었다. 그녀는 자아를 잃어버렸다. 자기 자신의 흔적을 잃어버렸고 결코 그것을 다시 찾을 수가 없었다. "브람스를 좋아하세요?" 그녀는 열린 창 앞에서 눈부</p>
