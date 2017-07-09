@@ -18,3 +18,17 @@
 2017-07-10_0430,	35,	스타트업 경험담,	<b>스타트업</b> 경험담,	
 2017-07-10_0430,	23,	알수록 좋은 경제,	알수록 좋은 <b>경제</b>,	
 2017-07-10_0430,	62,	미술·예술,	<b>미술</b>·<b>예술</b>,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-07-10 01:01:00.009374</p>
+<p><img alt="[나 혼자 산다] 전현무가 공항패션에 실패한 이유" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/H9L/image/Xh2xSln7SITlDRFl5fsFH_SdYpc.PNG" width="240">
+</img><br><h3>[나 혼자 산다] 전현무가 공항패션에 실패한 이유</h3><h6>by 글쓰는 스타일 코치 이문연</h6>나 혼자 산다 매번 재미있게 보고 있지만 퍼스널 스타일링이나 스타일 관련 내용이 나오면 더 관심있게 보고 있다. 지난 번 기안84의 메이크오버 편도 상당히 재미있었는데 http://stylecoach.kr/220968041031 '나혼자 산다' 기안84의 변신을 통해 본 퍼스널 쇼퍼의 역할 패션왕의 웹툰 작가 기안84나혼자 산다를 통해 완전</p>
+<p><img alt="말 잘 하려면 이렇게 하라(자존감 편)" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/1K9h/image/853MJXV-p6o7UHH-8bl6HdDvPpI.jpg" width="240">
+</img><br><h3>말 잘 하려면 이렇게 하라(자존감 편)</h3><h6>by 알통 스피치</h6>자존감이 높으면 말을 잘한다. 이유는 자신의 생각이나 결단에 대한 믿음이 자존감이 낮은 사람보다 확고하기 때문이다. 자신의 생각에 대한 분명함은 그 표현 방식에 따라 자칫 오만하게 보일 수도 있겠으나 그것은 인품 곧 품성의 문제이거나 스피치 스킬의 문제다. 자신의 분명한 기준이나 가치관이 없는 사람은 언제나 상대의 의견에 끌려가기 마련이고 그러한 자신을 </p>
+<p><img alt="인덕션 청소 깔끔하게 끝내는 방법! 베이킹소다 활용하기" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2JVJ/image/OseNpsEenP1ttEy_ovXuogVfAVc.jpg" width="240">
+</img><br><h3>인덕션 청소 깔끔하게 끝내는 방법! 베이킹소다 활용하기</h3><h6>by 허니팁</h6>가스레인지 대신 사용하는 인덕션도 주기적으로 청소를 해줘야 하는데요. 전용 세제를 이용하면 편리하고 코팅을 더하는 효과가 있지만 베이킹소다를 활용해서도 세정력만큼은 비슷한 효과를 볼 수 있습니다. 전용세제가 없다면 베이킹소다를 사용해 보세요. 인덕션 청소 깔끔하게 끝내는 방법! 베이킹소다 활용하기 베이킹소다와 식초를 준비합니다. 2가지 조합은 웬만한 청</p>
+<p><img alt="좋아하는 사람이 있다면? 호감 높이는 심리 기술 4" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/etZ/image/bTYRiLcZ631ELpuDf7rKt-W0-B4.png" width="240">
+</img><br><h3>좋아하는 사람이 있다면? 호감 높이는 심리 기술 4</h3><h6>by 전아론</h6>1 DTAG 법칙: 이유 있는 말로 마음을 움직이기 소개팅한 그 사람, 썸 타고 있는 그 사람과 함께 먹고 싶은 것이 있나요? 같이 하고 싶은 일이 있나요? 그럴 때 우리는 상대방에게 묻습니다. “오늘 저녁 같이 먹을래?” “이번 주말에 영화 보러 갈까?” 등등. 물론 서로가 대단히 호감을 느끼고 있다면, 어떤 질문을 던지든 “YES!!”가 되돌아오겠지만…</p>
