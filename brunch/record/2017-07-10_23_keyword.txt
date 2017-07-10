@@ -18,3 +18,17 @@
 2017-07-10_2330,	68,	방송·문화,	<b>방송</b>·<b>문화</b>,	
 2017-07-10_2330,	2,	글쓰기 코치,	<b>글쓰기</b> 코치,	
 2017-07-10_2330,	75,	게임 이야기,	<b>게임</b> 이야기,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-07-10 19:01:00.009090</p>
+<p><img alt="당장 살을 빼고 싶다면 먹어야 할 음식 6가지" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2xMI/image/COVk1C4y9VIZ3NLyLlVcOM5kIO4.jpg" width="240">
+</img><br><h3>당장 살을 빼고 싶다면 먹어야 할 음식 6가지</h3><h6>by 텐바디</h6>자연적인 음식으로 가득 찬 식단은 체중 감량 성공에 필수적인 열쇠인데요. 여름 과일과 채소 중 일부에는 유익한 영양소가 풍부하게 함유돼 있습니다. 아래 7가지 음식들을 확인하고, 몸을 최고 수준으로 유지하시기 바랍니다. 지방을 제거하기 위해서는 맛있는 음식을 포기하는 과정을 거쳐야 합니다. 당장 살을 빼고 싶다면 먹어야 할 음식 6가지 1. 라즈베리 </p>
+<p><img alt="대구 맛집 추천 | 매콤하고 칼칼한 대구의 맛" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/3rYK/image/e40sgUScdsafuZTeNBFfUHsF7yA.jpg" width="240">
+</img><br><h3>대구 맛집 추천 | 매콤하고 칼칼한 대구의 맛</h3><h6>by 대한민국구석구석</h6>온몸에 각인되는 강렬한 맛의 도시,대구로 맛 여행을 떠났습니다. ​ 화끈한 대구의 맛 서울·부산·대구·대전·광주·울산·인천, 여기에 요즘은 세종까지 가세합니다. 대한민국에서 손꼽는 대도시, 즉 행정구역상 특별시와 광역시로 일컬어지는 곳들이지요. 사는 곳에서 멀리 떨어져 그곳까지 가려면 자동차, 열차, 비행기 등을 이용해야 합니다. 교통수단에 오를 때면 여행</p>
+<p><img alt="말 잘 하려면 이렇게 하라(자존감 편)" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/1K9h/image/853MJXV-p6o7UHH-8bl6HdDvPpI.jpg" width="240">
+</img><br><h3>말 잘 하려면 이렇게 하라(자존감 편)</h3><h6>by 알통 스피치</h6>자존감이 높으면 말을 잘한다. 이유는 자신의 생각이나 결단에 대한 믿음이 자존감이 낮은 사람보다 확고하기 때문이다. 자신의 생각에 대한 분명함은 그 표현 방식에 따라 자칫 오만하게 보일 수도 있겠으나 그것은 인품 곧 품성의 문제이거나 스피치 스킬의 문제다. 자신의 분명한 기준이나 가치관이 없는 사람은 언제나 상대의 의견에 끌려가기 마련이고 그러한 자신을 </p>
+<p><img alt="미국에서 병원 이용하기" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/Lhl/image/LX2uyTt7_t1QV1RJHv7qWCY_U5w.jpg" width="240">
+</img><br><h3>미국에서 병원 이용하기</h3><h6>by 히로</h6>미국에 살면서 가장 피하고 싶었던 것 중에 하나가 병원에 가는 일이었다. 아픈 것 자체는 걱정이 되지 않았었는데, 병원에 가는 것만큼은 피하고 싶은 일이었다. 내가 한국에 있을 때 가장 많이 들었던 이야기 중의 하나가 '맹장수술 8만불'하는 식으로 미국에서는 병원비가 엄청나게 비싸다는 이야기였기 때문이었다. 아마도 이전에 봤던 '식코'(Sicko)라는</p>
