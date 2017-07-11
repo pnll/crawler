@@ -18,3 +18,17 @@
 2017-07-12_0230,	52,	인문학·철학,	브런치로 즐기는 <b>인문학</b>,	
 2017-07-12_0230,	78,	뷰티 인사이드,	<b>뷰티</b> 인사이드,	
 2017-07-12_0230,	9,	직장인 현실 조언,	<b>직장인</b> 현실 조언,	
+<html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <title>RECOMMENDED ARTICLES</title>
+            <body><p>2017-07-11 22:01:00.017557</p>
+<p><img alt="당신이 꼭 먹어야 할 6가지 건강 식품" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2xMI/image/BLdOnN6J1DC8RiILpqpP4ClPVsU.jpg" width="240">
+</img><br><h3>당신이 꼭 먹어야 할 6가지 건강 식품</h3><h6>by 텐바디</h6>마트에서 쉽게 구매가 가능한 사과, 바나나, 퀴노아, 파인애플, 오이, 망고 등은 건강을 위해 자주 섭취하면 좋은데요. 건강 관리를 제대로 할 수 있는 가장 쉬운 방법 중 하나는 건강한 식습관을 유지하는 것입니다. 지금부터라도 즐겨 먹어야 할 6가지 건강 식품을 확인해 보세요. 당신이 꼭 먹어야 할 6가지 건강 식품 1. 바나나 바나나는 칼륨 농도가 </p>
+<p><img alt="대구 맛집 추천 | 매콤하고 칼칼한 대구의 맛" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/3rYK/image/e40sgUScdsafuZTeNBFfUHsF7yA.jpg" width="240">
+</img><br><h3>대구 맛집 추천 | 매콤하고 칼칼한 대구의 맛</h3><h6>by 대한민국구석구석</h6>온몸에 각인되는 강렬한 맛의 도시,대구로 맛 여행을 떠났습니다. ​ 화끈한 대구의 맛 서울·부산·대구·대전·광주·울산·인천, 여기에 요즘은 세종까지 가세합니다. 대한민국에서 손꼽는 대도시, 즉 행정구역상 특별시와 광역시로 일컬어지는 곳들이지요. 사는 곳에서 멀리 떨어져 그곳까지 가려면 자동차, 열차, 비행기 등을 이용해야 합니다. 교통수단에 오를 때면 여행</p>
+<p><img alt="마트에서 간편하게 먹을 수 있는 디저트 5가지" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/2JVJ/image/nzpW-A2uB5fAFEApJKce2fD1ar4.jpg" width="240">
+</img><br><h3>마트에서 간편하게 먹을 수 있는 디저트 5가지</h3><h6>by 허니팁</h6>커피전문점이나 디저트 가게에 가지 않아도 마트에서 간편하게 디저트를 즐길 수 있는데요. SNS를 통해서 한번쯤 접해봤을 것 같은 디저트 인기 상품 5가지를 소개합니다. 마트에서 간편하게 먹을 수 있는 디저트 5가지 생크림 카스테라 화이트 이마트에서 판매 중인 생크림 카스테라는 용량 150g에 칼로리는 540kcal을 포함하고 있는데요. 과거에 비해 용량</p>
+<p><img alt="좋아하는 사람이 있다면? 호감 높이는 심리 기술 4" src="http://t1.daumcdn.net/thumb/R240x0/?fname=http://t1.daumcdn.net/brunch/service/user/etZ/image/bTYRiLcZ631ELpuDf7rKt-W0-B4.png" width="240">
+</img><br><h3>좋아하는 사람이 있다면? 호감 높이는 심리 기술 4</h3><h6>by 전아론</h6>1 DTAG 법칙: 이유 있는 말로 마음을 움직이기 소개팅한 그 사람, 썸 타고 있는 그 사람과 함께 먹고 싶은 것이 있나요? 같이 하고 싶은 일이 있나요? 그럴 때 우리는 상대방에게 묻습니다. “오늘 저녁 같이 먹을래?” “이번 주말에 영화 보러 갈까?” 등등. 물론 서로가 대단히 호감을 느끼고 있다면, 어떤 질문을 던지든 “YES!!”가 되돌아오겠지만…</p>
